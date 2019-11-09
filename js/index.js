@@ -1,2 +1,4 @@
-const sendMessageButton = document.querySelector("#sendMessageButton");
-sendMessageButton.preventDefault();
+const handleSubmit = (e) =>{
+    e.preventDefault();
+} 
+ 
