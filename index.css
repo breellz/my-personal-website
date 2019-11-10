@@ -84,3 +84,9 @@ html
 #portfolio{
     background-color: #f8f9fa!important;
 }
+#intro-loader {
+    font-size: 1.2em;
+    transition: opacity 1s;
+    opacity: 1;
+    text-transform: capitalize;
+  }
